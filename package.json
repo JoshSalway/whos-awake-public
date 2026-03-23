@@ -1,0 +1,10 @@
+{
+  "name": "whos-awake",
+  "version": "1.0.0",
+  "description": "Zero-dependency CLI to see which team members are likely working right now based on their timezone",
+  "bin": {
+    "whos-awake": "./whos-awake.js"
+  },
+  "keywords": ["timezone", "team", "remote", "cli", "availability"],
+  "license": "MIT"
+}
