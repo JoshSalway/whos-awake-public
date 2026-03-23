@@ -4,7 +4,7 @@ A zero-dependency Node.js CLI that tells you which of your team members are like
 
 Built for distributed/remote teams who need a quick glance at who's around.
 
-## Screenshot
+## Example
 
 ```
   WHO'S AWAKE?
